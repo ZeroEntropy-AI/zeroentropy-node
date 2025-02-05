@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.0-alpha.4 (2025-02-05)
+
+Full Changelog: [v0.1.0-alpha.3...v0.1.0-alpha.4](https://github.com/zeroentropy-ai/zeroentropy-node/compare/v0.1.0-alpha.3...v0.1.0-alpha.4)
+
+### Features
+
+* **client:** send `X-Stainless-Timeout` header ([#28](https://github.com/zeroentropy-ai/zeroentropy-node/issues/28)) ([ecd0912](https://github.com/zeroentropy-ai/zeroentropy-node/commit/ecd0912273945a262c29c7520410d6ae927ff177))
+
 ## 0.1.0-alpha.3 (2025-01-28)
 
 Full Changelog: [v0.1.0-alpha.2...v0.1.0-alpha.3](https://github.com/zeroentropy-ai/zeroentropy-node/compare/v0.1.0-alpha.2...v0.1.0-alpha.3)
